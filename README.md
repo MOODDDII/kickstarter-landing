@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing Page
+Project Overview
+This is a modern responsive landing page built using HTML, SCSS, and CSS Grid. The project uses SCSS mixins for reusable styles and Grid for a structured, flexible layouts
+Technologies Used
+✅ HTML –  Structure of the page
+✅ SCSS – Variables, Mixins, Nesting
+✅ CSS Grid – Layout design
+✅ Flexbox – Responsive elements
+✅ JavaScript – Interactive elements
